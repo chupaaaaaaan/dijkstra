@@ -1,0 +1,3 @@
+* dijkstra
+
+[[http://pllab.is.ocha.ac.jp/~asai/book/Top.html][プログラミングの基礎]](浅井) に出てくるDijkstraのアルゴリズムを、haskellで実装する。
